@@ -3,6 +3,11 @@ hello-markdown
 
 a training of editing with markdown format
 
+参考にしたサイト
+--------------------
+http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/
+
+
 プロジェクト・タイトル
 ======================
 ここにプロジェクトの概要を書きます。
